@@ -15,3 +15,4 @@ Each level adds one new colour to the pattern.
 If you click the wrong colour, the game ends.
 Press a key again to restart.
 
+https://genuine-yeot-dcf429.netlify.app
